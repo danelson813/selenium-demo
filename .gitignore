@@ -1,0 +1,7 @@
+venv/
+External Libraries/
+Scratches and Consoles/
+*.log
+*.csv
+*.json
+.idea/
